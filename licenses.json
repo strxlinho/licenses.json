@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "issuer": "PANZURO-ANTI-CHEAT",
+    "format_version": "1.0",
+    "notes": "League licenses are stored here."
+  },
+  "leagues": [
+    {
+      "league_id": "league-alpha",
+      "league_name": "Alpha Competitive League",
+      "subscription": {
+        "status": "active",
+        "license_key": "PANZ-ALPHA-PRO-XXXX-XXXX-XXXX",
+        "issued_at": "2026-01-01T00:00:00Z",
+        "expires_at": "2027-01-01T00:00:00Z"
+      }
+    },
+    {
+      "league_id": "league-beta",
+      "league_name": "Beta Amateur League",
+      "subscription": {
+        "status": "active",
+        "license_key": "PANZ-BETA-STD-YYYY-YYYY-YYYY",
+        "issued_at": "2026-02-01T00:00:00Z",
+        "expires_at": "2026-08-01T00:00:00Z"
+      }
+    },
+    {
+      "league_id": "league-gamma",
+      "league_name": "Gamma Invitational",
+      "subscription": {
+        "status": "trial",
+        "license_key": "PANZ-GAMMA-ENT-ZZZZ-ZZZZ-ZZZZ",
+        "issued_at": "2026-02-05T00:00:00Z",
+        "expires_at": "2026-03-05T00:00:00Z"
+      }
+    }
+  ]
+}
