@@ -4,10 +4,16 @@
     "format_version": "1.0",
     "notes": "League licenses are stored here."
   },
+  "discord_bot_token": "MTQ3MDI0OTIwMTczMTYzMzI4Mg.G76EGS.7ArnpU2jXMXhjjpQN3mu6lZZs3aTEMrzSNuEAw",
+  "github_token": "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",
   "leagues": [
     {
       "league_id": "league-alpha",
       "league_name": "Alpha Competitive League",
+      "discord_guild_id": "BURAYA_SUNUCU_ID",
+      "required_role_id": "BURAYA_ROL_ID",
+      "login_channel_id": "",
+      "alert_channel_id": "",
       "subscription": {
         "status": "active",
         "license_key": "PANZ-ALPHA-PRO-XXXX-XXXX-XXXX",
@@ -18,6 +24,10 @@
     {
       "league_id": "league-beta",
       "league_name": "Beta Amateur League",
+      "discord_guild_id": "BURAYA_SUNUCU_ID",
+      "required_role_id": "BURAYA_ROL_ID",
+      "login_channel_id": "",
+      "alert_channel_id": "",
       "subscription": {
         "status": "active",
         "license_key": "PANZ-BETA-STD-YYYY-YYYY-YYYY",
@@ -28,6 +38,10 @@
     {
       "league_id": "league-gamma",
       "league_name": "Gamma Invitational",
+      "discord_guild_id": "BURAYA_SUNUCU_ID",
+      "required_role_id": "BURAYA_ROL_ID",
+      "login_channel_id": "",
+      "alert_channel_id": "",
       "subscription": {
         "status": "trial",
         "license_key": "PANZ-GAMMA-ENT-ZZZZ-ZZZZ-ZZZZ",
