@@ -8,17 +8,17 @@
   "github_token": "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",
   "leagues": [
     {
-      "league_id": "league-beta",
-      "league_name": "Beta Amateur League",
-      "discord_guild_id": "BURAYA_SUNUCU_ID",
-      "required_role_id": "BURAYA_ROL_ID",
+      "league_id": "Panzuro-Test",
+      "league_name": "Panzuro Test League",
+      "discord_guild_id": "1469119559050072098",
+      "required_role_id": "1469119807327572039D",
       "login_channel_id": "",
       "alert_channel_id": "",
       "subscription": {
         "status": "active",
-        "license_key": "PANZ-BETA-STD-YYYY-YYYY-YYYY",
+        "license_key": "PANZ-BETA-STD-YYYY-YYYY-YZXY",
         "issued_at": "2026-02-01T00:00:00Z",
-        "expires_at": "2026-08-01T00:00:00Z"
+        "expires_at": "2029-08-01T00:00:00Z"
       }
     },
     {
