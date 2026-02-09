@@ -11,9 +11,9 @@
       "league_id": "Panzuro-Test",
       "league_name": "Panzuro Test League",
       "discord_guild_id": "1469119559050072098",
-      "required_role_id": "1469119807327572039D",
-      "login_channel_id": "",
-      "alert_channel_id": "",
+      "required_role_id": "1469119812188770450",
+      "login_channel_id": "1469122010507641004",
+      "alert_channel_id": "1469122048549720251",
       "subscription": {
         "status": "active",
         "license_key": "PANZ-BETA-STD-YYYY-YYYY-YZXY",
